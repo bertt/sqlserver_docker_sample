@@ -1,4 +1,4 @@
-# Using SQL Server on Dokcer
+# Using SQL Server on Docker
 
 Sample for running SQLServer on Docker using docker-compose. The docker-compose file contains two Docker images:
 SQL Server and a web application. The web application connects to the database.
